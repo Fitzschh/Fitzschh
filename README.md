@@ -25,7 +25,7 @@
 </p>
 <p align="center"><sub>macOS &nbsp;&nbsp;·&nbsp;&nbsp; Debian &nbsp;&nbsp;·&nbsp;&nbsp; Ubuntu</sub></p>
 
-<h3 align="center">Selected projects</h3>
+<h3 align="center">Highlighted projects</h3>
 
 <table align="center">
   <tr>
